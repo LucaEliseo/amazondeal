@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Card, Row, Col, Pagination, Input } from 'antd';
 
-const apiKey = '1091f38e12msh96724a3bf4e9bb0p130ba8jsnf95c9de56792';
+const apiKey = 'Inserisci la tua api';
 const apiUrl = 'https://real-time-amazon-data.p.rapidapi.com/search';
 
 const Product = () => {
